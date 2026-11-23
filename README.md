@@ -127,30 +127,14 @@ The results are recorded separately because they appear in different screenshots
 | Week 3 requirement | Documentation status |
 |---|---|
 | **W3-PM1 — Password Cracking with JTR** | Evidence included in this repository |
-| **W3-PM2 — Password Cracking with NetworkWalks Tools** | Separate PM2 evidence/report still to be added |
+| **W3-PM2 — Password Cracking with NetworkWalks Tools** | Separate PM2 evidence/report |
 
-This README documents the PM1/JTR work and the related NetworkWalks interface screenshots supplied for this report. It does not claim that the full PM2 module has been completed.
+This README documents the PM1/JTR work and the related NetworkWalks interface screenshots supplied for this report.
 
 ## Repository contents
 
-```text
-NETWORKWALKS-WEEK3-PASSWORD-CRACKING-B084/
-│
-├── README.md
-├── Week3_PM1_JTR_Practical_Report.pdf
-│
-├── evidence/
-│   ├── 01_pdf_file_in_kali_downloads.png
-│   ├── 02_jtr_hash_extraction_and_terminal.png
-│   ├── 03_jtr_recovered_pdf_password.png
-│   ├── 04_hash_calculator_pdf_hash_extraction.png
-│   ├── 05_dictionary_attack_progress_and_match.png
-│   ├── 06_cracked_pdf_flag_display.png
-│   └── 07_week3_flag_capture_confirmation.png
-│
-└── design-reference/
-    └── week2_github_header_style_reference.png
-```
+Week3_PM1_JTR_Practical_Report.pdf
+
 
 ## Responsible use
 
