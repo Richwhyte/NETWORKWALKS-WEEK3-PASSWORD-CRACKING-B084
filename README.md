@@ -87,7 +87,7 @@ The supplied NetworkWalks training screenshot shows the protected PDF being proc
 
 The NetworkWalks Dictionary Attack interface shows candidate passwords being tested and a successful match being reported.
 
-![Dictionary attack progress](evidence/05_dictionary_attack_progress_and_match.png)
+![Dictionary attack progress](networkwalks_hash_calculator2.png)
 
 *Figure 5. Training interface showing a successful candidate match for `password1`.*
 
