@@ -55,7 +55,7 @@ Screenshots from the NetworkWalks Hash Calculator and Dictionary Attack training
 
 The password-protected PDF was located in the Kali Linux Downloads directory before being moved into the Week 3 working folder.
 
-![Protected PDF in Kali Linux](evidence/01_pdf_file_in_kali_downloads.png)
+![Protected PDF in Kali Linux](JTR1.png)
 
 *Figure 1. Protected PDF file in the Kali Linux Downloads directory.*
 
