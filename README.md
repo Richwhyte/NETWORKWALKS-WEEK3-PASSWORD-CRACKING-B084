@@ -133,7 +133,9 @@ This README documents the PM1/JTR work and the related NetworkWalks interface sc
 
 ## Repository contents
 
-Week3_PM1_JTR_Practical_Report.pdf
+Week3 Report pdf FILE
+
+[View Week 3 Practical Report](Week3_PM1_JTR_Practical_Report.pdf)
 
 
 ## Responsible use
