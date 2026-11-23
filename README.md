@@ -20,7 +20,7 @@
 | **Programme** | NetworkWalks Cybersecurity Internship |
 | **Batch** | B084 |
 | **Week** | 03 |
-| **Module** | W3-PM1 — Password Cracking with John the Ripper |
+| **Module** | W3-PM1 — Password Cracking with John the Ripper & NetworkWalks Hash Calculator |
 | **Environment** | Kali Linux running in Oracle VirtualBox |
 
 ## Overview
