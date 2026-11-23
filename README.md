@@ -79,7 +79,7 @@ John the Ripper reported one password hash cracked. The `--show` output displaye
 
 The supplied NetworkWalks training screenshot shows the protected PDF being processed and a crackable hash being displayed.
 
-![NetworkWalks Hash Calculator](evidence/04_hash_calculator_pdf_hash_extraction.png)
+![NetworkWalks Hash Calculator](networkwalks_hash_calculator1.png)
 
 *Figure 4. NetworkWalks Hash Calculator output.*
 
