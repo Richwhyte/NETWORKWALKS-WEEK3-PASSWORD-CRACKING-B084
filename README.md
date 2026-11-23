@@ -107,7 +107,7 @@ The NetworkWalks completion graphic displays the following captured flag:
 
 `nw{cybersecurity_flag_captured_2608}`
 
-![Flag capture confirmation](evidence/07_week3_flag_capture_confirmation.png)
+![Flag capture confirmation](final.png)
 
 *Figure 7. NetworkWalks challenge confirmation.*
 
