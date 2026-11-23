@@ -71,7 +71,7 @@ The PDF hash was extracted and saved to a text file. John the Ripper was then ru
 
 John the Ripper reported one password hash cracked. The `--show` output displayed the recovered password for the local practice PDF.
 
-![JTR recovered password](JTR result.png)
+![JTR recovered password](JTRresult.png)
 
 *Figure 3. JTR verification output. The recovered password shown for the local practice PDF is `good-luck`.*
 
