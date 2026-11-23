@@ -97,7 +97,7 @@ The supplied screenshot of the opened PDF displays the following flag:
 
 `nw{networkwalks_flag1_jtr_270521_1}`
 
-![Flag in opened PDF](evidence/06_cracked_pdf_flag_display.png)
+![Flag in opened PDF](networkwalks_hash_calculator3.png)
 
 *Figure 6. Flag displayed in the opened training PDF.*
 
