@@ -63,7 +63,7 @@ The password-protected PDF was located in the Kali Linux Downloads directory bef
 
 The PDF hash was extracted and saved to a text file. John the Ripper was then run against the hash using the RockYou wordlist.
 
-![JTR hash extraction and terminal](evidence/02_jtr_hash_extraction_and_terminal.png)
+![JTR hash extraction and terminal](JTR2.png)
 
 *Figure 2. Terminal evidence of the hash preparation and JTR workflow.*
 
@@ -71,7 +71,7 @@ The PDF hash was extracted and saved to a text file. John the Ripper was then ru
 
 John the Ripper reported one password hash cracked. The `--show` output displayed the recovered password for the local practice PDF.
 
-![JTR recovered password](evidence/03_jtr_recovered_pdf_password.png)
+![JTR recovered password](JTR result.png)
 
 *Figure 3. JTR verification output. The recovered password shown for the local practice PDF is `good-luck`.*
 
